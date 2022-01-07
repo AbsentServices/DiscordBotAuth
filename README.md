@@ -8,5 +8,5 @@ Basic discord bot Auth
 
 ## Demo
 * [Auth Site](https://absentservices.xyz/authorize/)
-* [AbsentServices](https://absentservices.xyz/usertitlegen/)
+* [AbsentServices](https://absentservices.xyz)
 * [Discord](https://discord.gg/M5aaVRYgFN)
