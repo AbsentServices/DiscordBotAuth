@@ -7,8 +7,5 @@ Basic discord bot Auth
 
 
 ## Demo
-* [Auth Site](https://absentservices.xyz/authorize/)
+* [Coming Soon](https://)
 
-## Absent Services
-* [AbsentServices](https://absentservices.xyz)
-* [Discord](https://discord.gg/M5aaVRYgFN)
