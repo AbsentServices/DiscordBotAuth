@@ -6,6 +6,5 @@ Basic discord bot Auth
 
 
 
-## Demo
-* [Coming Soon](https://)
+
 
